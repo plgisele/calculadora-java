@@ -15,6 +15,7 @@ public class calculadora {
 		System.out.println("Escolha a operação a ser feita: \n 1 - Soma \n 2 - Subtração \n 3 - Multiplicação \n 4 - Divisão");
 		int operacao = leitor.nextInt();
 		
+		//atribuição de método à variável
 		double somar = soma(primeiroValor, segundoValor);
 		double subtrair = subtracao(primeiroValor, segundoValor);
 		double multiplicar = multiplicacao(primeiroValor, segundoValor);
