@@ -8,6 +8,10 @@ O projeto utiliza:
 - Uso de **switch** para selecionar a operação selecionada
 - **Métodos** para realizar as operações
 
+## Nível de dificuldade
+
+- Básico
+
 ## Funcionalidades
 
 - Soma
